@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Liquid_RPG.sln"
+    "dotnet.defaultSolution": "LiquidRPGProject2.sln"
 }
